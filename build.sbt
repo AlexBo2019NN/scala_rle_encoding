@@ -1,4 +1,4 @@
-name := "scala_rle_encoding"
+name := "rle-encoding"
 
 version := "0.1"
 
